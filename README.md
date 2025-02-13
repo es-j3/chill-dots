@@ -1,7 +1,7 @@
 # chill-dots
 A repo where I host my FreeBSD dots
 
-How to install:
+How to install: (COMING SOON)
 ```fetch https://raw.githubusercontent.com/es-j3/chill-dots/main/install.sh```
 ```chmod +x install.sh```
 ```./install.sh```
