@@ -2,6 +2,9 @@
 A repo where I host my FreeBSD dots
 
 How to install: (COMING SOON)
+
+Assumes you have graphics drivers installed!
+
 ```fetch https://raw.githubusercontent.com/es-j3/chill-dots/main/install.sh```
 ```chmod +x install.sh```
 ```./install.sh```
@@ -13,3 +16,9 @@ Specs:
 
 Theme: https://www.gnome-look.org/p/1267246
 Icon Theme: https://www.gnome-look.org/p/1477945/
+WM: Hyprland
+Wallpaper: swaybg https://www.reddit.com/r/wallpaper/comments/1ifwrc1/3840x2160_almsee_lake_austria/#lightbox
+Menu: Wofi
+Terminal: Kitty
+Shell: Fish
+Bar: Waybar 
