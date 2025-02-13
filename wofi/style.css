@@ -1,0 +1,55 @@
+* {
+	border-radius: 10px;
+	font-family: "JetBrains Mono", monospace;
+}
+
+window {
+	border-radius: 10px;
+	background-color: #434C5E;
+}
+
+#input {
+	margin: 5px;
+	border-radius: 10px;
+	border: none;
+	background-color: #3B4252;
+	color: white;
+}
+
+#inner-box {
+	border-radius: 10px;
+	background-color: #383C4A;
+}
+
+#outer-box {
+	border-radius: 10px;
+	margin: 2px;
+	padding: 10px;
+	background-color: #383C4A;
+}
+
+#scroll {
+	border-radius: 10px;
+	margin: 5px;
+}
+
+#text {
+	border-radius: 10px;
+	padding: 4px;
+	color: white;
+}
+
+#entry:nth-child(even){
+	border-radius: 10px;
+	background-color: #404552;
+}
+
+#entry:selected {
+	border-radius: 10px;	
+	background-color: #4C566A;
+}
+
+#text:selected {
+	border-radius: 10px;
+	background: transparent;
+}
